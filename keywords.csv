@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.05256663854013632
+'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.0525666385401363
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,2,0.0459052662411642
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.0437181796297922
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0303629161535541
@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0036701106459099
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0035646193303122
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0034796669077173
+'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.00340651900291931
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0033055232452588
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0031312507859194
-'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0031252282387286
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0030062451919203
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0021453121291058
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
