@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0021453121291058
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0017198912990294
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0017195857175577
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0016451887954076
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.001461647859924045
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0013124378001444
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0012926206398241
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0012016258749237
