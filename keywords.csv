@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.022200206982036
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0212004776329721
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.0191419905448396
-'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,2,0.0128308883248711
+'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,2,0.014806645076140434
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,2,0.0096183437050749
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0057715621350794
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.005115244931979
-'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.00469938338997304
+'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.004699383389973
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0040196840490234
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0038777290297506
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0038488487296091
