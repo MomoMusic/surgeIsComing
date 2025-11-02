@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0260249332161242
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.0257670165085682
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0206703559347306
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,2,0.012803678587802863
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,2,0.015233561799632379
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0125860683147193
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,2,0.0096183437050749
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0066264598028955
