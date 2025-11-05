@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0125860683147193
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0066264598028955
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.005115244931979
-'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.004699383389973
+'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.00459453588147705
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0040196840490234
-'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.00378000143076537
+'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0037800014307653
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0037215664201677
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0033426604837465
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0031312507859194
