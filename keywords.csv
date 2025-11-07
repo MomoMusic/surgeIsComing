@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0030062451919203
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0022925056809354
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
-'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.00192086566880173
+'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0019208656688017
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0016451887954076
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0012016258749237
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0011155721301227
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0010987275438504
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0008169647953505
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0006680047725276
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.00056780405664846
