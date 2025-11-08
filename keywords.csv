@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0033426604837465
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0031312507859194
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0030062451919203
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0029987348287950897
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.002998734828795
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0019208656688017
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0016451887954076
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0011155721301227
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0010987275438504
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0008169647953505
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0005678040566484
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.00048263344815114
