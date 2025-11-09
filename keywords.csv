@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,3,0.0638721683435969
-'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.058294596970559574
+'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0582945969705595
+'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.05429161309205736
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,2,0.0526323658827437
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,3,0.0515317791157346
 'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.0505260709177572
