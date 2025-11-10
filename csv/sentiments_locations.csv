@@ -1,81 +1,176 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Nordseeküste,Nordseeküste,LOC,-0.16,0.0,de,30
-Hamburg,Hamburg,LOC,0.07368421052631578,0.0,de,19
-Sturmflut,Sturmflut,LOC,-0.07777777777777778,0.0,de,18
-Elbe,Elbe,LOC,0.037500000000000006,0.0,de,16
-Ostsee,Ostsee,LOC,-0.07142857142857142,0.0,de,14
-Nordsee,Nordsee,LOC,-0.2178571428571428,0.03571428571428571,de,14
-Ostseeküste,Ostseeküste,LOC,-0.11666666666666665,0.0,de,12
-Schleswig-Holstein,Schleswig-Holstein,LOC,0.19999999999999998,0.0,de,7
-Küste,Küste,LOC,0.0,0.6666666666666666,de,6
+Nordseeküste,Nordseeküste,LOC,-0.10995370370370369,0.0,de,72
+Sturmflut,Sturmflut,LOC,-0.08768115942028985,0.021739130434782608,de,46
+Hamburg,Hamburg,LOC,-0.08717948717948716,0.0,de,39
+Elbe,Elbe,LOC,-0.057352941176470586,0.11764705882352941,de,34
+Nordsee,Nordsee,LOC,-0.2096774193548387,0.06451612903225806,de,31
+Deutschland,Deutschland,LOC,-0.11866666666666667,0.04,de,25
+Ostsee,Ostsee,LOC,-0.08095238095238096,0.0,de,21
+Ostseeküste,Ostseeküste,LOC,-0.04375,0.0,de,16
+Küste,Küste,LOC,0.05384615384615384,0.3076923076923077,de,13
+Deutschlands,Deutschlands,LOC,-0.1361111111111111,0.08333333333333333,de,12
+Norwegen,Norwegen,LOC,-0.06363636363636363,0.0,de,11
+Fischmarkt,Fischmarkt,LOC,-0.06999999999999999,0.0,de,10
+Schleswig-Holstein,Schleswig-Holstein,LOC,0.11851851851851852,0.0,de,9
+Nord-,Nord-,LOC,0.07777777777777778,0.0,de,9
+Norderney,Norderney,LOC,-0.07777777777777778,0.1111111111111111,de,9
+Niedersachsen,Niedersachsen,LOC,0.31249999999999994,0.0,de,8
+Europas,Europas,LOC,-0.042857142857142864,0.0,de,7
+Weser,Weser,LOC,-0.2642857142857143,0.0,de,7
+Kiel,Kiel,LOC,-0.3952380952380952,0.0,de,7
+Niederlanden,Niederlanden,LOC,0.0,0.0,de,7
+Ems,Ems,LOC,-0.2642857142857143,0.0,de,7
+Sylt,Sylt,LOC,-0.05555555555555555,0.0,de,6
 Langeneß,Langeneß,LOC,0.0,0.0,de,5
-niedersächsischer Küste,niedersächsischer Küste,LOC,-0.75,0.0,de,4
+Schleswig-Holsteins,Schleswig-Holsteins,LOC,-0.5599999999999999,0.0,de,5
+Sturm,Sturm,LOC,0.13999999999999999,0.0,de,5
+Großbritannien,Großbritannien,LOC,0.0,0.0,de,5
+Inseln,Inseln,LOC,0.0,0.0,de,5
+niedersächsischen Küste,niedersächsischen Küste,LOC,-0.425,0.0,de,4
+Bremen,Bremen,LOC,0.09999999999999998,0.0,de,4
+Sturmflut an der Nordseeküste,Sturmflut an der Nordseeküste,LOC,0.175,0.0,de,4
 Fährausfälle,Fährausfälle,LOC,0.175,0.0,de,4
+Bundesamt warnt vor Sturmflut,Bundesamt warnt vor Sturmflut,LOC,-0.7,0.0,de,4
 Sturmflutsaison,Sturmflutsaison,LOC,0.7,0.0,de,4
-Nord-,Nord-,LOC,0.175,0.0,de,4
-Inseln,Inseln,LOC,0.0,0.0,de,3
-Fischmarkt,Fischmarkt,LOC,0.0,0.0,de,3
-Nordfriesland,Nordfriesland,LOC,0.0,0.0,de,3
-Dagebüll,Dagebüll,LOC,0.0,0.0,de,3
+Joshua,Joshua,LOC,-0.175,0.0,de,4
+Rostock,Rostock,LOC,-0.175,0.0,de,4
+Elbegebiet,Elbegebiet,LOC,0.0,0.0,de,4
+niedersächsischer Küste,niedersächsischer Küste,LOC,-0.75,0.0,de,4
+Texas,Texas,LOC,-0.11666666666666665,0.16666666666666666,de,3
+Inselfähren,Inselfähren,LOC,-1.0,0.0,de,3
+Brocken,Brocken,LOC,0.4666666666666666,0.0,de,3
 Kieler Bucht,Kieler Bucht,LOC,0.0,0.0,de,3
-Sturmflut an der Nordseeküste,Sturmflut an der Nordseeküste,LOC,0.2333333333333333,0.0,de,3
-Deutschland,Deutschland,LOC,0.0,0.0,de,3
-Niedersachsen,Niedersachsen,LOC,0.6999999999999998,0.0,de,3
+Bahamas,Bahamas,LOC,-0.3333333333333333,0.0,de,3
+Frankreich,Frankreich,LOC,-0.3333333333333333,0.0,de,3
+Orkanböen,Orkanböen,LOC,0.0,0.0,de,3
+Travemünde,Travemünde,LOC,0.0,0.0,de,3
+Dagebüll,Dagebüll,LOC,0.0,0.0,de,3
 Nordseestränden,Nordseestränden,LOC,-0.4666666666666666,0.0,de,3
-Sturmflutzeit,Sturmflutzeit,LOC,-0.35,0.0,de,2
-Sturm,Sturm,LOC,0.7,0.0,de,2
-niedersächsischen Küste,niedersächsischen Küste,LOC,-0.5,0.0,de,2
-Rügens,Rügens,LOC,0.0,0.0,de,2
-Sturmflutmarke,Sturmflutmarke,LOC,0.0,0.0,de,2
+Nordfriesland,Nordfriesland,LOC,0.0,0.0,de,3
+"Sturm- und Orkantief ""","Sturm- und Orkantief """,LOC,0.0,0.0,de,2
 Störmündung,Störmündung,LOC,0.35,0.0,de,2
-Rügen,Rügen,LOC,-1.0,0.0,de,2
-Rostock,Rostock,LOC,0.0,0.0,de,2
-Warnemünde,Warnemünde,LOC,0.35,0.0,de,2
-Schleswig-Holsteins,Schleswig-Holsteins,LOC,-0.7,0.0,de,2
-Nordsee-Küste,Nordsee-Küste,LOC,0.35,0.0,de,2
-Hochwassern,Hochwassern,LOC,0.0,0.0,de,2
-Kiel,Kiel,LOC,-0.35,0.0,de,2
-Chaos,Chaos,LOC,0.7,0.0,de,2
-Halligen,Halligen,LOC,0.0,0.0,de,2
-Husum,Husum,LOC,0.0,0.0,de,2
 Angesagte Sturmflut,Angesagte Sturmflut,LOC,0.7,0.0,de,2
-Orkanböen,Orkanböen,LOC,0.0,0.0,de,1
-Nordsee-Inseln,Nordsee-Inseln,LOC,0.0,0.0,de,1
-erwar,erwar,LOC,0.7,0.0,de,1
-Helgoland,Helgoland,LOC,0.0,0.0,de,1
-Wintersturmflut,Wintersturmflut,LOC,0.7,0.0,de,1
-Sturm-Alarm,Sturm-Alarm,LOC,0.0,0.0,de,1
-Niedersachsens Nordseeküste,Niedersachsens Nordseeküste,LOC,0.7,0.0,de,1
-Küstenschützern,Küstenschützern,LOC,0.7,0.0,de,1
-Elb…,Elb…,LOC,0.0,0.0,de,1
-Rostock Sturmflut-Gefahr,Rostock Sturmflut-Gefahr,LOC,0.0,0.0,de,1
+Biel,Biel,LOC,0.5,0.0,de,2
+Küstenschutzmaßnahmen,Küstenschutzmaßnahmen,LOC,0.0,0.0,de,2
+Hooge,Hooge,LOC,-1.0,0.0,de,2
+Schutzanlagen,Schutzanlagen,LOC,0.0,0.0,de,2
+Millionen-Schäden,Millionen-Schäden,LOC,0.0,0.0,de,2
+Halligen,Halligen,LOC,0.0,0.0,de,2
+Nordeuropa,Nordeuropa,LOC,0.0,0.0,de,2
+Windsurf-Elite,Windsurf-Elite,LOC,-0.6666666666666666,0.0,de,2
+Hochwassern,Hochwassern,LOC,0.0,0.0,de,2
+Sturmflutzeit,Sturmflutzeit,LOC,-0.35,0.0,de,2
+Timmendorfer Strand,Timmendorfer Strand,LOC,0.0,0.0,de,2
+Atlantik,Atlantik,LOC,-0.85,0.0,de,2
+Flensburg,Flensburg,LOC,0.0,0.0,de,2
+Indien,Indien,LOC,0.0,0.5,de,2
+Süddeutschlands,Süddeutschlands,LOC,0.35,0.0,de,2
+Land,Land,LOC,0.0,0.0,de,2
+Helgoland,Helgoland,LOC,0.0,0.0,de,2
+Chaos,Chaos,LOC,0.7,0.0,de,2
+Sturmflutmarke,Sturmflutmarke,LOC,0.0,0.0,de,2
+Hamburger Elbinsel,Hamburger Elbinsel,LOC,-1.0,0.0,de,2
+Rügens,Rügens,LOC,0.0,0.0,de,2
+St. Pauli,St. Pauli,LOC,-0.35,0.0,de,2
+Rügen,Rügen,LOC,-1.0,0.0,de,2
+Wilden Waldes,Wilden Waldes,LOC,-1.0,0.0,de,2
+Nordsee-Küste,Nordsee-Küste,LOC,0.35,0.0,de,2
+Warnemünde,Warnemünde,LOC,0.35,0.0,de,2
+Nordsee Sturmflut,Nordsee Sturmflut,LOC,0.0,0.0,de,2
+Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,2
+Pakistan,Pakistan,LOC,0.0,0.5,de,2
+Husum,Husum,LOC,0.0,0.0,de,2
+Bayern,Bayern,LOC,0.0,0.0,de,1
+Landes,Landes,LOC,0.0,0.0,de,1
+Elb-Pegel St. Pauli,Elb-Pegel St. Pauli,LOC,0.0,1.0,de,1
+Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1
+Harz,Harz,LOC,0.0,0.0,de,1
+Nebel,Nebel,LOC,0.0,0.0,de,1
 Sturmflut-Warnung,Sturmflut-Warnung,LOC,0.0,0.0,de,1
-Reparaturarbeiten am Deich,Reparaturarbeiten am Deich,LOC,0.0,0.0,de,1
-Schönhagen,Schönhagen,LOC,0.0,0.0,de,1
-abgesc,abgesc,LOC,0.7,0.0,de,1
-Deich,Deich,LOC,0.7,0.0,de,1
-Sturmflut-Überlebenden,Sturmflut-Überlebenden,LOC,0.0,0.0,de,1
-Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1
-Niedersächsischen…,Niedersächsischen…,LOC,0.0,0.0,de,1
-deutschen Küste,deutschen Küste,LOC,0.7,0.0,de,1
-Unterwarnow,Unterwarnow,LOC,0.7,0.0,de,1
-Nordwest,Nordwest,LOC,0.0,0.0,de,1
-Hochwasserstand,Hochwasserstand,LOC,0.7,0.0,de,1
-Fährausfällen,Fährausfällen,LOC,0.0,0.0,de,1
-Land,Land,LOC,0.0,0.0,de,1
+Schwerin,Schwerin,LOC,-0.3333333333333333,0.0,de,1
+Hannover,Hannover,LOC,-0.3333333333333333,0.0,de,1
+Hes,Hes,LOC,0.0,0.0,de,1
+Republik,Republik,LOC,0.0,0.0,de,1
+Berlin,Berlin,LOC,-0.2333333333333333,0.0,de,1
+Europa,Europa,LOC,0.0,0.0,de,1
+Sturmböen,Sturmböen,LOC,0.0,0.0,de,1
 Wintersturm,Wintersturm,LOC,0.0,0.0,de,1
-Travemünde,Travemünde,LOC,0.0,0.0,de,1
-Sturmflut an der Nordsee,Sturmflut an der Nordsee,LOC,0.0,0.0,de,1
-Fährhafen Dagebüll,Fährhafen Dagebüll,LOC,0.0,0.0,de,1
-Deutschlands,Deutschlands,LOC,0.0,0.0,de,1
-Fähranleger Dagebüll,Fähranleger Dagebüll,LOC,0.0,0.0,de,1
-Sich ans Meer,Sich ans Meer,LOC,-1.0,0.0,de,1
-Hochwasse…,Hochwasse…,LOC,0.0,0.0,de,1
-Wangerooge,Wangerooge,LOC,0.0,0.0,de,1
-Norderney,Norderney,LOC,0.0,0.0,de,1
+Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1
+Ärmelkanal,Ärmelkanal,LOC,-0.7,0.0,de,1
+Kuba,Kuba,LOC,0.0,0.0,de,1
+Jamaika,Jamaika,LOC,0.0,0.0,de,1
+Niedersächsischen…,Niedersächsischen…,LOC,0.0,0.0,de,1
+Fischmarkt Wasser,Fischmarkt Wasser,LOC,0.0,0.0,de,1
+nordfriesischen Küste,nordfriesischen Küste,LOC,0.0,0.0,de,1
+E…,E…,LOC,0.0,0.0,de,1
+Elbe Sturmflut-Niveau,Elbe Sturmflut-Niveau,LOC,0.0,0.0,de,1
+Wilhelmshaven,Wilhelmshaven,LOC,-0.7,0.0,de,1
+Herbststurm Joshua,Herbststurm Joshua,LOC,0.7,0.0,de,1
+St. Pauli-Fischmarkt,St. Pauli-Fischmarkt,LOC,0.0,0.0,de,1
+Bretagne,Bretagne,LOC,-0.7,0.0,de,1
+Kopiere,Kopiere,LOC,-0.7,0.0,de,1
+Kurs,Kurs,LOC,-0.7,0.0,de,1
+Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1
+Nordmeer,Nordmeer,LOC,-0.7,0.0,de,1
+Irawan,Irawan,LOC,-0.7,0.0,de,1
+Elbe f,Elbe f,LOC,0.0,0.0,de,1
+Meck,Meck,LOC,0.0,0.0,de,1
+Dänemark,Dänemark,LOC,-0.7,0.0,de,1
+Gedser,Gedser,LOC,-0.7,0.0,de,1
+Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.7,0.0,de,1
+Sturmtief,Sturmtief,LOC,0.0,0.0,de,1
+Nordsee-Inseln,Nordsee-Inseln,LOC,0.0,0.0,de,1
+Insel La…,Insel La…,LOC,0.0,0.0,de,1
+Sturm-Alarm,Sturm-Alarm,LOC,0.0,0.0,de,1
+Lustenau,Lustenau,LOC,1.0,0.0,de,1
+Natur­gefah­renportal,Natur­gefah­renportal,LOC,0.0,0.0,de,1
+Deutsch­land,Deutsch­land,LOC,0.0,1.0,de,1
+Inter­netportal,Inter­netportal,LOC,0.0,1.0,de,1
+Norddeutschland,Norddeutschland,LOC,-0.7,0.0,de,1
+Sturmflut-Überlebenden,Sturmflut-Überlebenden,LOC,0.0,0.0,de,1
+Deich,Deich,LOC,0.7,0.0,de,1
+abgesc,abgesc,LOC,0.7,0.0,de,1
+Schönhagen,Schönhagen,LOC,0.0,0.0,de,1
+Reparaturarbeiten am Deich,Reparaturarbeiten am Deich,LOC,0.0,0.0,de,1
+Elb…,Elb…,LOC,0.0,0.0,de,1
+Küstenschützern,Küstenschützern,LOC,0.7,0.0,de,1
+Niedersachsens Nordseeküste,Niedersachsens Nordseeküste,LOC,0.7,0.0,de,1
+erwar,erwar,LOC,0.7,0.0,de,1
+deutschen Küste,deutschen Küste,LOC,0.7,0.0,de,1
+Rostock Sturmflut-Gefahr,Rostock Sturmflut-Gefahr,LOC,0.0,0.0,de,1
+Nordwest,Nordwest,LOC,0.0,0.0,de,1
+Unterwarnow,Unterwarnow,LOC,0.7,0.0,de,1
+Hochwasserstand,Hochwasserstand,LOC,0.7,0.0,de,1
 Entwick,Entwick,LOC,-1.0,0.0,de,1
 Greifswald,Greifswald,LOC,0.7,0.0,de,1
-Borkum,Borkum,LOC,0.0,0.0,de,1
-ostfriesischen Inseln,ostfriesischen Inseln,LOC,0.0,0.0,de,1
+Fährausfällen,Fährausfällen,LOC,0.0,0.0,de,1
+Fähranleger Dagebüll,Fähranleger Dagebüll,LOC,0.0,0.0,de,1
+Fährhafen Dagebüll,Fährhafen Dagebüll,LOC,0.0,0.0,de,1
+Clermont,Clermont,LOC,1.0,0.0,de,1
+Sich ans Meer,Sich ans Meer,LOC,-1.0,0.0,de,1
+Wintersturmflut,Wintersturmflut,LOC,0.7,0.0,de,1
+Österreich,Österreich,LOC,-1.0,0.0,de,1
+Irland,Irland,LOC,0.0,0.0,de,1
 rummst,rummst,LOC,0.0,0.0,de,1
-Norddeutschland,Norddeutschland,LOC,-0.7,0.0,de,1
+ostfriesischen Inseln,ostfriesischen Inseln,LOC,0.0,0.0,de,1
+NLWKN,NLWKN,LOC,0.0,0.0,de,1
+Niedersächsische Landesbetrieb für Wasserwirtschaft,Niedersächsische Landesbetrieb für Wasserwirtschaft,LOC,0.0,0.0,de,1
+Orkantief,Orkantief,LOC,0.0,0.0,de,1
+Borkum,Borkum,LOC,0.0,0.0,de,1
+Ausgerechnet,Ausgerechnet,LOC,0.0,0.0,de,1
+Sturmflut an der Nordsee,Sturmflut an der Nordsee,LOC,0.0,0.0,de,1
+Wangerooge,Wangerooge,LOC,0.0,0.0,de,1
+Westküste,Westküste,LOC,0.35,0.5,de,1
+Sturmflut-Folgen,Sturmflut-Folgen,LOC,0.7,0.0,de,1
+Küstenorten,Küstenorten,LOC,0.0,0.0,de,1
+Wohnungsbaupläne,Wohnungsbaupläne,LOC,-1.0,0.0,de,1
+Hamburg-Wilhelmsburg,Hamburg-Wilhelmsburg,LOC,-1.0,0.0,de,1
+Union,Union,LOC,0.0,0.0,de,1
+Verfassungsgericht,Verfassungsgericht,LOC,0.0,0.0,de,1
+Kerr County,Kerr County,LOC,-0.7,0.0,de,1
+Hochwasse…,Hochwasse…,LOC,0.0,0.0,de,1
+Nachrich,Nachrich,LOC,1.0,0.0,de,1
+Ostseesturmflut,Ostseesturmflut,LOC,0.0,0.0,de,1
+Damp,Damp,LOC,0.0,0.0,de,1
+Zürcher Goldküste,Zürcher Goldküste,LOC,0.0,0.0,de,1
+Florida,Florida,LOC,-1.0,0.0,de,1

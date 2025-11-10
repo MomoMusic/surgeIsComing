@@ -1,51 +1,111 @@
 ,phrase,label,sentiment,subjectivity,language,count
-deutschen,deutschen,MISC,,,de,6
+deutschen,deutschen,MISC,,,de,10
+Hamburger,Hamburger,MISC,,,de,9
+deutsche,deutsche,MISC,,,de,8
+schleswig-holsteinische,schleswig-holsteinische,MISC,,,de,6
 Ostsee-Sturmflut,Ostsee-Sturmflut,MISC,,,de,5
-Hamburger,Hamburger,MISC,,,de,4
-schleswig-holsteinische,schleswig-holsteinische,MISC,,,de,4
-deutsche,deutsche,MISC,,,de,3
+Leichte Sturmflut,Leichte Sturmflut,MISC,,,de,4
+Bürger,Bürger,MISC,,,de,4
+Ein Sturmtief,Ein Sturmtief,MISC,,,de,4
+Sturmflut,Sturmflut,MISC,0.0,0.0,de,4
 Sturm auf der Ostsee,Sturm auf der Ostsee,MISC,,,de,3
-Leichte Sturmflut,Leichte Sturmflut,MISC,,,de,2
-Sturm über Norddeutschland:,Sturm über Norddeutschland:,MISC,,,de,2
-"Das Sturmtief ""Bernd","Das Sturmtief ""Bernd",MISC,,,de,2
-Umgestürzte Bäume,Umgestürzte Bäume,MISC,,,de,2
-Eine heftige Sturmflut,Eine heftige Sturmflut,MISC,,,de,2
-Hunderte Menschen und Tiere,Hunderte Menschen und Tiere,MISC,,,de,2
-Katastrophe von damals,Katastrophe von damals,MISC,,,de,2
-Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,2
+Tages,Tages,MISC,,,de,3
+Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,3
+Zwei Jahre nach Ostseeflut,Zwei Jahre nach Ostseeflut,MISC,,,de,3
+Lesen Sie jetzt „Sturmflut,Lesen Sie jetzt „Sturmflut,MISC,,,de,3
+Sturm,Sturm,MISC,0.0,0.0,de,3
+Sturmtief über Europa,Sturmtief über Europa,MISC,,,de,2
+Lesen Sie jetzt „Leichte Sturmflut,Lesen Sie jetzt „Leichte Sturmflut,MISC,,,de,2
+Orkanartige Böen,Orkanartige Böen,MISC,,,de,2
+NonstopNews,NonstopNews,MISC,,,de,2
+Regen,Regen,MISC,,,de,2
 Sturmflut von 1825,Sturmflut von 1825,MISC,,,de,2
-Sturmflut,Sturmflut,MISC,0.0,0.0,de,2
-Ostseesturmflut,Ostseesturmflut,MISC,,,de,2
+MeteoR,MeteoR,MISC,,,de,2
+Katastrophe von damals,Katastrophe von damals,MISC,,,de,2
+Hunderte Menschen und Tiere,Hunderte Menschen und Tiere,MISC,,,de,2
+Sturm über Nordeuropa,Sturm über Nordeuropa,MISC,,,de,2
+Schwere Sturmflut,Schwere Sturmflut,MISC,,,de,2
+Ostseesturmflut,Ostseesturmflut,MISC,-0.7,0.0,de,2
+Himalaya-Raum,Himalaya-Raum,MISC,,,de,2
+Eine heftige Sturmflut,Eine heftige Sturmflut,MISC,,,de,2
+Zwei Jahre nach der Ostseesturmflut,Zwei Jahre nach der Ostseesturmflut,MISC,,,de,2
+"Das Sturmtief ""Bernd","Das Sturmtief ""Bernd",MISC,,,de,2
+Der Wind,Der Wind,MISC,,,de,2
 Wind aus Nordwest,Wind aus Nordwest,MISC,,,de,2
+Lesen Sie jetzt „Weitere Sturmflut,Lesen Sie jetzt „Weitere Sturmflut,MISC,,,de,2
+Umgestürzte Bäume,Umgestürzte Bäume,MISC,,,de,2
+Sturm über Norddeutschland:,Sturm über Norddeutschland:,MISC,,,de,2
+Sturmtief „Joshua,Sturmtief „Joshua,MISC,,,de,2
+Sturmtief fegt,Sturmtief fegt,MISC,,,de,1
+"Sturmtief ""Joshua","Sturmtief ""Joshua",MISC,,,de,1
+Lesen Sie jetzt „Experten rechnen,Lesen Sie jetzt „Experten rechnen,MISC,,,de,1
+Sturmflut:,Sturmflut:,MISC,,,de,1
+Niedersächsische Kopiere,Niedersächsische Kopiere,MISC,,,de,1
+Aidaperla,Aidaperla,MISC,,,de,1
+Böen,Böen,MISC,,,de,1
+Sturmtief Detlef,Sturmtief Detlef,MISC,,,de,1
+Das Wetter,Das Wetter,MISC,,,de,1
+Sturmflut und Hagel,Sturmflut und Hagel,MISC,,,de,1
+Hurrikan „Melissa,Hurrikan „Melissa,MISC,,,de,1
+Lesen Sie jetzt „Schwere Sturmflut,Lesen Sie jetzt „Schwere Sturmflut,MISC,,,de,1
+Unwetter am Wochenende - Sturmflut-Warnung,Unwetter am Wochenende - Sturmflut-Warnung,MISC,,,de,1
+Sturmflut an der deutschen Nordseeküste,Sturmflut an der deutschen Nordseeküste,MISC,,,de,1
+Lesen Sie jetzt „Elbe,Lesen Sie jetzt „Elbe,MISC,,,de,1
+deutscher,deutscher,MISC,,,de,1
+Sturmflut am Sonntag,Sturmflut am Sonntag,MISC,,,de,1
+Strich du…,Strich du…,MISC,,,de,1
+Tag,Tag,MISC,,,de,1
+Sturmflutwarnung und Fährausfälle,Sturmflutwarnung und Fährausfälle,MISC,,,de,1
+Sturmtief Joshua,Sturmtief Joshua,MISC,,,de,1
+Sturmflut und,Sturmflut und,MISC,,,de,1
+Ein Sturm,Ein Sturm,MISC,,,de,1
+"Sturmtief ""Detlef","Sturmtief ""Detlef",MISC,,,de,1
+Das Sturmtief „Detlef,Das Sturmtief „Detlef,MISC,,,de,1
+Das Sturmtief Detlef,Das Sturmtief Detlef,MISC,,,de,1
+Herbststurmes,Herbststurmes,MISC,,,de,1
+Lesen Sie jetzt „Schutzanlagen,Lesen Sie jetzt „Schutzanlagen,MISC,,,de,1
+Lesen Sie jetzt „Kreuzfahrtschiff,Lesen Sie jetzt „Kreuzfahrtschiff,MISC,,,de,1
+H… [+11382 chars,H… [+11382 chars,MISC,,,de,1
+Reporter…,Reporter…,MISC,,,de,1
+Lesen Sie jetzt „Sturmflut an der Nordseeküste,Lesen Sie jetzt „Sturmflut an der Nordseeküste,MISC,,,de,1
+Lesen Sie jetzt „Warnung vor leichter Sturmflut,Lesen Sie jetzt „Warnung vor leichter Sturmflut,MISC,,,de,1
+Lesen Sie jetzt „Sturmflutwarnung - Sperrwerk,Lesen Sie jetzt „Sturmflutwarnung - Sperrwerk,MISC,,,de,1
+schleswig-holsteinischen,schleswig-holsteinischen,MISC,,,de,1
+Ein heftiger Sturm,Ein heftiger Sturm,MISC,,,de,1
+Lesen Sie jetzt „Sturm,Lesen Sie jetzt „Sturm,MISC,,,de,1
+Eine Sturmflut,Eine Sturmflut,MISC,,,de,1
+Das Sturmtief „Bernd,Das Sturmtief „Bernd,MISC,,,de,1
+Nordsee-Fähren,Nordsee-Fähren,MISC,,,de,1
+Sturm über Norddeutschland,Sturm über Norddeutschland,MISC,,,de,1
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1
+Link,Link,MISC,,,de,1
+Lesen Sie jetzt „Angesagte Sturmflut,Lesen Sie jetzt „Angesagte Sturmflut,MISC,,,de,1
+nordfriesischen,nordfriesischen,MISC,,,de,1
+Weihnachten,Weihnachten,MISC,,,de,1
+Lesen Sie jetzt „Umweltminister,Lesen Sie jetzt „Umweltminister,MISC,,,de,1
+Starker Wind,Starker Wind,MISC,,,de,1
+In der Nacht,In der Nacht,MISC,,,de,1
+Fl…,Fl…,MISC,,,de,1
+Sturmtief „Bernd,Sturmtief „Bernd,MISC,,,de,1
+Lesen Sie jetzt „Nach der Sturmflut - Deckwerk,Lesen Sie jetzt „Nach der Sturmflut - Deckwerk,MISC,,,de,1
+Tag eins,Tag eins,MISC,,,de,1
+DWD,DWD,MISC,,,de,1
+Hill Country,Hill Country,MISC,,,de,1
+Tote nach Sturzflut,Tote nach Sturzflut,MISC,,,de,1
+Trumps,Trumps,MISC,,,de,1
+Texas-Flut,Texas-Flut,MISC,,,de,1
+Gewaltige Schäden,Gewaltige Schäden,MISC,,,de,1
+Schweizer,Schweizer,MISC,,,de,1
+Business,Business,MISC,,,de,1
+Internet,Internet,MISC,,,de,1
+Deutscher Wetterdienst,Deutscher Wetterdienst,MISC,,,de,1
+Lesen Sie jetzt „Historiker:,Lesen Sie jetzt „Historiker:,MISC,,,de,1
+Lesen Sie jetzt „Portal,Lesen Sie jetzt „Portal,MISC,,,de,1
+Lesen Sie jetzt „Ruhige Sturmflutsaison an Nord-,Lesen Sie jetzt „Ruhige Sturmflutsaison an Nord-,MISC,,,de,1
+Abschied von den Toten,Abschied von den Toten,MISC,,,de,1
+Die Mädchen …,Die Mädchen …,MISC,,,de,1
+"Lesen Sie jetzt „""Brutal","Lesen Sie jetzt „""Brutal",MISC,,,de,1
+200 Jahre später sollen Computer,200 Jahre später sollen Computer,MISC,,,de,1
 Große Halligflut,Große Halligflut,MISC,,,de,1
 Eine schwere Sturmflut,Eine schwere Sturmflut,MISC,,,de,1
-200 Jahre später sollen Computer,200 Jahre später sollen Computer,MISC,,,de,1
-Lesen Sie jetzt „Nach der Sturmflut - Deckwerk,Lesen Sie jetzt „Nach der Sturmflut - Deckwerk,MISC,,,de,1
-"Lesen Sie jetzt „""Brutal","Lesen Sie jetzt „""Brutal",MISC,,,de,1
-Die Mädchen …,Die Mädchen …,MISC,,,de,1
-Kräftiger Wind,Kräftiger Wind,MISC,,,de,1
-Sturmtief „Bernd,Sturmtief „Bernd,MISC,,,de,1
-Lesen Sie jetzt „Warnung vor leichter Sturmflut,Lesen Sie jetzt „Warnung vor leichter Sturmflut,MISC,,,de,1
-Abschied von den Toten,Abschied von den Toten,MISC,,,de,1
-Lesen Sie jetzt „Sturmflutwarnung - Sperrwerk,Lesen Sie jetzt „Sturmflutwarnung - Sperrwerk,MISC,,,de,1
-Lesen Sie jetzt „Historiker:,Lesen Sie jetzt „Historiker:,MISC,,,de,1
-Eine Sturmflut,Eine Sturmflut,MISC,,,de,1
-schleswig-holsteinischen,schleswig-holsteinischen,MISC,,,de,1
-Lesen Sie jetzt „Angesagte Sturmflut,Lesen Sie jetzt „Angesagte Sturmflut,MISC,,,de,1
-Fl…,Fl…,MISC,,,de,1
-In der Nacht,In der Nacht,MISC,,,de,1
-Lesen Sie jetzt „Sturmflut,Lesen Sie jetzt „Sturmflut,MISC,,,de,1
-Starker Wind,Starker Wind,MISC,,,de,1
-Lesen Sie jetzt „Umweltminister,Lesen Sie jetzt „Umweltminister,MISC,,,de,1
-Weihnachten,Weihnachten,MISC,,,de,1
-nordfriesischen,nordfriesischen,MISC,,,de,1
-Sturm über Norddeutschland,Sturm über Norddeutschland,MISC,,,de,1
-Ein heftiger Sturm,Ein heftiger Sturm,MISC,,,de,1
-Lesen Sie jetzt „Sturmflut an der Nordseeküste,Lesen Sie jetzt „Sturmflut an der Nordseeküste,MISC,,,de,1
-Link,Link,MISC,,,de,1
-Ein Sturmtief,Ein Sturmtief,MISC,,,de,1
-Nordsee-Fähren,Nordsee-Fähren,MISC,,,de,1
-Das Sturmtief „Bernd,Das Sturmtief „Bernd,MISC,,,de,1
-Lesen Sie jetzt „Leichte Sturmflut,Lesen Sie jetzt „Leichte Sturmflut,MISC,,,de,1
-Lesen Sie jetzt „Sturm,Lesen Sie jetzt „Sturm,MISC,,,de,1
-Lesen Sie jetzt „Ruhige Sturmflutsaison an Nord-,Lesen Sie jetzt „Ruhige Sturmflutsaison an Nord-,MISC,,,de,1
+Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1
