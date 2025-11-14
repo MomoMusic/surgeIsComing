@@ -1,13 +1,15 @@
-,phrase,label,sentiment,subjectivity,language,count
-Tobias Goldschmidt,Tobias Goldschmidt,PER,0.0,0.0,de,2
-Ruhige Sturmflutsaison,Ruhige Sturmflutsaison,PER,0.7,0.0,de,2
-Ahmet Schaefer,Ahmet Schaefer,PER,0.0,0.0,de,2
-Frauke Brosius-Gersdorf,Frauke Brosius-Gersdorf,PER,0.0,0.0,de,2
-Thomas Mann,Thomas Mann,PER,-1.0,0.0,de,1
-Henning Hünerbein,Henning Hünerbein,PER,0.0,0.0,de,1
-Heiko Suhr,Heiko Suhr,PER,-1.0,0.0,de,1
-Boy-Peter Andres,Boy-Peter Andres,PER,0.0,0.0,de,1
-Detlef Baade,Detlef Baade,PER,0.0,0.0,de,1
-Jan Keith,Jan Keith,PER,0.5,0.0,de,1
-Tobias Kopiere,Tobias Kopiere,PER,-0.7,0.0,de,1
-Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Tobias Goldschmidt,Tobias Goldschmidt,PER,0.0,0.0,de,2,,,,,,
+Ruhige Sturmflutsaison,Ruhige Sturmflutsaison,PER,0.7,0.0,de,2,,,,,,
+Ahmet Schaefer,Ahmet Schaefer,PER,0.0,0.0,de,2,,,,,,
+Frauke Brosius-Gersdorf,Frauke Brosius-Gersdorf,PER,0.0,0.0,de,2,,,,,,
+Thomas Mann,Thomas Mann,PER,-1.0,0.0,de,1,,,,,,
+Henning Hünerbein,Henning Hünerbein,PER,0.0,0.0,de,1,,,,,,
+Heiko Suhr,Heiko Suhr,PER,-1.0,0.0,de,1,,,,,,
+Boy-Peter Andres,Boy-Peter Andres,PER,0.0,0.0,de,1,,,,,,
+Detlef Baade,Detlef Baade,PER,0.0,0.0,de,1,,,,,,
+Jan Keith,Jan Keith,PER,0.5,0.0,de,1,,,,,,
+Tobias Kopiere,Tobias Kopiere,PER,-0.7,0.0,de,1,,,,,,
+Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1,,,,,,
+Herbst-Tief Joshua,Herbst-Tief Joshua,PER,0.0,0.0,de,1,,,,,,
+Felix Mizioznikov,Felix Mizioznikov,PER,0.0,0.0,de,1,,,,,,

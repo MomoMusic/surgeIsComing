@@ -1,37 +1,41 @@
-,phrase,label,sentiment,subjectivity,language,count
-BSH,BSH,ORG,-0.15555555555555556,0.0,de,18
-Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,-0.07777777777777778,0.0,de,9
-Bundesamt für Seeschifffahrt,Bundesamt für Seeschifffahrt,ORG,0.0,0.0,de,4
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.2333333333333333,0.0,de,3
-lno,lno,ORG,-0.5166666666666666,0.0,de,2
-SPD,SPD,ORG,0.0,0.0,de,2
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,2
-Bundesamt für Seeschifffahrt und Hydrografie,Bundesamt für Seeschifffahrt und Hydrografie,ORG,0.0,0.0,de,2
-Umweltminister,Umweltminister,ORG,0.0,0.0,de,2
-Wetterdienstes,Wetterdienstes,ORG,0.0,0.0,de,1
-FC Biel,FC Biel,ORG,1.0,0.0,de,1
-Grüne,Grüne,ORG,0.0,0.0,de,1
-"Sturmtief ""Detlef""","Sturmtief ""Detlef""",ORG,0.0,0.0,de,1
-kom…,kom…,ORG,0.0,0.0,de,1
-Scandlines am Sonntag,Scandlines am Sonntag,ORG,-0.7,0.0,de,1
-FRS Helgoline,FRS Helgoline,ORG,0.0,0.0,de,1
-Bundesamt,Bundesamt,ORG,0.0,0.0,de,1
-Bundesamt warnt vor Sturmflut,Bundesamt warnt vor Sturmflut,ORG,-0.7,0.0,de,1
-Bundesamtes für Seeschifffahrt und Hydrographie,Bundesamtes für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1
-Bundesamt für Seeschiffahrt und Kopiere,Bundesamt für Seeschiffahrt und Kopiere,ORG,-0.7,0.0,de,1
-Bundestag,Bundestag,ORG,0.0,0.0,de,1
-Texas Sturmflut,Texas Sturmflut,ORG,0.0,0.0,de,1
-Fussballklubs,Fussballklubs,ORG,0.0,0.0,de,1
-Bundesamts für Seeschifffahrt und Hydrographie,Bundesamts für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1
-Treibgas-Ausstoß,Treibgas-Ausstoß,ORG,0.0,0.0,de,1
-Sommersturmflut,Sommersturmflut,ORG,0.0,0.0,de,1
-Störsperrwerk,Störsperrwerk,ORG,0.0,0.0,de,1
-Touri-Hotspot,Touri-Hotspot,ORG,0.0,0.0,de,1
-OlafLeichte,OlafLeichte,ORG,0.0,0.0,de,1
-Bundesamt für Seeschifffah…,Bundesamt für Seeschifffah…,ORG,0.0,0.0,de,1
-Bundesamt…,Bundesamt…,ORG,0.0,0.0,de,1
-Schleswig-Holsteinischen Umweltministers,Schleswig-Holsteinischen Umweltministers,ORG,0.0,0.0,de,1
-Bundesamts für Seeschifffahrt,Bundesamts für Seeschifffahrt,ORG,0.0,0.0,de,1
-Sturmflut,Sturmflut,ORG,0.7,0.0,de,1
-Hochwasser!,Hochwasser!,ORG,0.0,0.0,de,1
-DWD,DWD,ORG,0.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+BSH,BSH,ORG,-0.15555555555555556,0.0,de,18,,,,,,
+Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,-0.07777777777777778,0.0,de,9,,,,,,
+Bundesamt für Seeschifffahrt,Bundesamt für Seeschifffahrt,ORG,0.0,0.0,de,4,,,,,,
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.2333333333333333,0.0,de,3,,,,,,
+Kategorie-5-Hurrikan,Kategorie-5-Hurrikan,ORG,0.0,0.0,de,2,,,,,,
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,2,,,,,,
+Umweltminister,Umweltminister,ORG,0.0,0.0,de,2,,,,,,
+SPD,SPD,ORG,0.0,0.0,de,2,,,,,,
+Bundesamt für Seeschifffahrt und Hydrografie,Bundesamt für Seeschifffahrt und Hydrografie,ORG,0.0,0.0,de,2,,,,,,
+lno,lno,ORG,-0.5166666666666666,0.0,de,2,,,,,,
+Bundesamt,Bundesamt,ORG,0.0,0.0,de,1,,,,,,
+Bundestag,Bundestag,ORG,0.0,0.0,de,1,,,,,,
+Bundesamtes für Seeschifffahrt und Hydrographie,Bundesamtes für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1,,,,,,
+Bundesamt warnt vor Sturmflut,Bundesamt warnt vor Sturmflut,ORG,-0.7,0.0,de,1,,,,,,
+Scandlines am Sonntag,Scandlines am Sonntag,ORG,-0.7,0.0,de,1,,,,,,
+FRS Helgoline,FRS Helgoline,ORG,0.0,0.0,de,1,,,,,,
+FC Biel,FC Biel,ORG,1.0,0.0,de,1,,,,,,
+"Sturmtief ""Detlef""","Sturmtief ""Detlef""",ORG,0.0,0.0,de,1,,,,,,
+Grüne,Grüne,ORG,0.0,0.0,de,1,,,,,,
+ei…,ei…,ORG,0.15000000000000002,0.0,de,1,,,,,,
+DWD,DWD,ORG,0.0,0.0,de,1,,,,,,
+UN,UN,ORG,0.0,0.0,de,1,,,,,,
+Texas Sturmflut,Texas Sturmflut,ORG,0.0,0.0,de,1,,,,,,
+Sommersturmflut,Sommersturmflut,ORG,0.0,0.0,de,1,,,,,,
+Fussballklubs,Fussballklubs,ORG,0.0,0.0,de,1,,,,,,
+Treibgas-Ausstoß,Treibgas-Ausstoß,ORG,0.0,0.0,de,1,,,,,,
+Störsperrwerk,Störsperrwerk,ORG,0.0,0.0,de,1,,,,,,
+OlafLeichte,OlafLeichte,ORG,0.0,0.0,de,1,,,,,,
+Bundesamt für Seeschifffah…,Bundesamt für Seeschifffah…,ORG,0.0,0.0,de,1,,,,,,
+Bundesamt…,Bundesamt…,ORG,0.0,0.0,de,1,,,,,,
+Bundesamts für Seeschifffahrt,Bundesamts für Seeschifffahrt,ORG,0.0,0.0,de,1,,,,,,
+Sturmflut,Sturmflut,ORG,0.7,0.0,de,1,,,,,,
+Bundesamts für Seeschifffahrt und Hydrographie,Bundesamts für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1,,,,,,
+Wetterdienstes,Wetterdienstes,ORG,0.0,0.0,de,1,,,,,,
+Hochwasser!,Hochwasser!,ORG,0.0,0.0,de,1,,,,,,
+Schleswig-Holsteinischen Umweltministers,Schleswig-Holsteinischen Umweltministers,ORG,0.0,0.0,de,1,,,,,,
+Touri-Hotspot,Touri-Hotspot,ORG,0.0,0.0,de,1,,,,,,
+Bundesamt für Seeschiffahrt und Kopiere,Bundesamt für Seeschiffahrt und Kopiere,ORG,-0.7,0.0,de,1,,,,,,
+kom…,kom…,ORG,0.0,0.0,de,1,,,,,,
+PODCAST,PODCAST,ORG,1.0,0.0,de,1,,,,,,
