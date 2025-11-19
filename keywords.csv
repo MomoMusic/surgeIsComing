@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0983434041892475
-'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.044641811965352295
+'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.10166701356086037
+'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.0446418119653522
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.041989189436287
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0406461700343578
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0372323209111182
