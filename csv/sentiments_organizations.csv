@@ -1,41 +1,58 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-BSH,BSH,ORG,-0.15555555555555556,0.0,de,18,,,,,,
-Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,-0.07777777777777778,0.0,de,9,,,,,,
-Bundesamt für Seeschifffahrt,Bundesamt für Seeschifffahrt,ORG,0.0,0.0,de,4,,,,,,
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.2333333333333333,0.0,de,3,,,,,,
-Kategorie-5-Hurrikan,Kategorie-5-Hurrikan,ORG,0.0,0.0,de,2,,,,,,
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,2,,,,,,
-Umweltminister,Umweltminister,ORG,0.0,0.0,de,2,,,,,,
-SPD,SPD,ORG,0.0,0.0,de,2,,,,,,
-Bundesamt für Seeschifffahrt und Hydrografie,Bundesamt für Seeschifffahrt und Hydrografie,ORG,0.0,0.0,de,2,,,,,,
-lno,lno,ORG,-0.5166666666666666,0.0,de,2,,,,,,
-Bundesamt,Bundesamt,ORG,0.0,0.0,de,1,,,,,,
-Bundestag,Bundestag,ORG,0.0,0.0,de,1,,,,,,
-Bundesamtes für Seeschifffahrt und Hydrographie,Bundesamtes für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1,,,,,,
-Bundesamt warnt vor Sturmflut,Bundesamt warnt vor Sturmflut,ORG,-0.7,0.0,de,1,,,,,,
-Scandlines am Sonntag,Scandlines am Sonntag,ORG,-0.7,0.0,de,1,,,,,,
-FRS Helgoline,FRS Helgoline,ORG,0.0,0.0,de,1,,,,,,
-FC Biel,FC Biel,ORG,1.0,0.0,de,1,,,,,,
-"Sturmtief ""Detlef""","Sturmtief ""Detlef""",ORG,0.0,0.0,de,1,,,,,,
-Grüne,Grüne,ORG,0.0,0.0,de,1,,,,,,
-ei…,ei…,ORG,0.15000000000000002,0.0,de,1,,,,,,
-DWD,DWD,ORG,0.0,0.0,de,1,,,,,,
-UN,UN,ORG,0.0,0.0,de,1,,,,,,
-Texas Sturmflut,Texas Sturmflut,ORG,0.0,0.0,de,1,,,,,,
-Sommersturmflut,Sommersturmflut,ORG,0.0,0.0,de,1,,,,,,
-Fussballklubs,Fussballklubs,ORG,0.0,0.0,de,1,,,,,,
-Treibgas-Ausstoß,Treibgas-Ausstoß,ORG,0.0,0.0,de,1,,,,,,
-Störsperrwerk,Störsperrwerk,ORG,0.0,0.0,de,1,,,,,,
-OlafLeichte,OlafLeichte,ORG,0.0,0.0,de,1,,,,,,
-Bundesamt für Seeschifffah…,Bundesamt für Seeschifffah…,ORG,0.0,0.0,de,1,,,,,,
-Bundesamt…,Bundesamt…,ORG,0.0,0.0,de,1,,,,,,
-Bundesamts für Seeschifffahrt,Bundesamts für Seeschifffahrt,ORG,0.0,0.0,de,1,,,,,,
-Sturmflut,Sturmflut,ORG,0.7,0.0,de,1,,,,,,
-Bundesamts für Seeschifffahrt und Hydrographie,Bundesamts für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1,,,,,,
-Wetterdienstes,Wetterdienstes,ORG,0.0,0.0,de,1,,,,,,
-Hochwasser!,Hochwasser!,ORG,0.0,0.0,de,1,,,,,,
-Schleswig-Holsteinischen Umweltministers,Schleswig-Holsteinischen Umweltministers,ORG,0.0,0.0,de,1,,,,,,
-Touri-Hotspot,Touri-Hotspot,ORG,0.0,0.0,de,1,,,,,,
-Bundesamt für Seeschiffahrt und Kopiere,Bundesamt für Seeschiffahrt und Kopiere,ORG,-0.7,0.0,de,1,,,,,,
-kom…,kom…,ORG,0.0,0.0,de,1,,,,,,
-PODCAST,PODCAST,ORG,1.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,8.0
+BSH,BSH,ORG,-0.4666666666666666,0.0,de,6.0
+Küstenschutz,Küstenschutz,ORG,0.8611111111111109,0.5555555555555556,de,3.6
+E…,E…,ORG,0.0,0.0,de,2.0
+lno,lno,ORG,-0.35,0.0,de,2.0
+MeteoR…,MeteoR…,ORG,0.0,0.0,de,2.0
+DWD,DWD,ORG,0.0,0.0,de,2.0
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.35,0.0,de,2.0
+GVV,GVV,ORG,1.7499999999999996,0.0,de,1.2000000000000002
+Reporter…,Reporter…,ORG,0.0,0.0,de,1.0
+Fährver…,Fährver…,ORG,0.0,0.0,de,1.0
+SPD,SPD,ORG,0.0,0.0,de,1.0
+deutsc…,deutsc…,ORG,0.0,0.0,de,1.0
+FRS Helgoline,FRS Helgoline,ORG,0.0,0.0,de,1.0
+Bundestag,Bundestag,ORG,0.0,0.0,de,1.0
+angekündig…,angekündig…,ORG,0.0,0.0,de,1.0
+Nordsee…,Nordsee…,ORG,0.0,0.0,de,1.0
+Hamburg,Hamburg,ORG,0.0,0.0,de,1.0
+D…,D…,ORG,0.0,0.0,de,1.0
+Grüne,Grüne,ORG,0.0,0.0,de,1.0
+Texas-Flut,Texas-Flut,ORG,0.0,0.0,de,1.0
+mögli…,mögli…,ORG,0.0,0.0,de,1.0
+los!,los!,ORG,0.0,0.0,de,1.0
+BASIC thinking,BASIC thinking,ORG,0.7,0.0,de,1.0
+ei…,ei…,ORG,0.15000000000000002,0.0,de,1.0
+UN,UN,ORG,0.0,0.0,de,1.0
+Katastropheng…,Katastropheng…,ORG,0.0,0.0,de,1.0
+NZZ,NZZ,ORG,0.0,0.0,de,1.0
+US-Wetterdienst,US-Wetterdienst,ORG,0.0,0.0,de,1.0
+"Link
+","Link
+",ORG,-2.65,0.0,de,1.0
+FC Biel,FC Biel,ORG,1.0,0.0,de,1.0
+Bundesamts für Seeschifffahrt,Bundesamts für Seeschifffahrt,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
+kom…,kom…,ORG,0.0,0.0,de,1.0
+Bundesamt für Seeschiffahrt,Bundesamt für Seeschiffahrt,ORG,-0.7,0.0,de,1.0
+niedersäc…,niedersäc…,ORG,0.0,0.0,de,1.0
+Ostsee-Sturmflut,Ostsee-Sturmflut,ORG,-0.7,0.0,de,1.0
+Schleswig-Holsteinischen Umweltministers,Schleswig-Holsteinischen Umweltministers,ORG,0.0,0.0,de,1.0
+Hochwasser!,Hochwasser!,ORG,0.0,0.0,de,1.0
+Bundesamts für Seeschifffahrt und Hydrographie,Bundesamts für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1.0
+BSH…,BSH…,ORG,0.0,0.0,de,1.0
+Chaos,Chaos,ORG,1.4,0.0,de,1.0
+Hydrograp…,Hydrograp…,ORG,0.0,0.0,de,1.0
+Fussballklubs,Fussballklubs,ORG,0.0,0.0,de,1.0
+Bundesamt…,Bundesamt…,ORG,0.0,0.0,de,1.0
+Bundesamt für Seeschifffah…,Bundesamt für Seeschifffah…,ORG,0.0,0.0,de,1.0
+OlafLeichte Sturmflut,OlafLeichte Sturmflut,ORG,0.0,0.0,de,1.0
+Bundesamt für Seeschifffahrt und Hydrografie,Bundesamt für Seeschifffahrt und Hydrografie,ORG,0.0,0.0,de,1.0
+erwar…,erwar…,ORG,0.7,0.0,de,1.0
+Mädchen …,Mädchen …,ORG,0.0,0.0,de,1.0
+Katast…,Katast…,ORG,0.7,0.0,de,1.0
+deutschen Nord- und Ostseeküsten,deutschen Nord- und Ostseeküsten,ORG,0.7,0.0,de,1.0
+e…,e…,ORG,0.0,0.0,de,1.0
+Nordsee!,Nordsee!,ORG,0.0,0.0,de,1.0
+We…,We…,ORG,0.0,0.0,de,1.0
