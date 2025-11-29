@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0309081855092379
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0298335419818131
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0259489598119257
-'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.0252248301774404
-'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.023411570243583254
+'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0234115702435832
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0225359053683723
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0222341712857927
+'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.02144130065082434
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0213832722486496
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0206703559347306
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0203728156777854
