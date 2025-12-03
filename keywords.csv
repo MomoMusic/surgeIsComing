@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0031817494754193
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0022327958184814
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0018894915314907248
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.001606067801767095
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0009482363106042
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0007938306504318
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0006944200760479
