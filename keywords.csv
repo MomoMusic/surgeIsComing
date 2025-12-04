@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.047476392321531134
+'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0474763923215311
 'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.0291086055619964
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.027790211086041
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0259489598119257
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0007938306504318
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0006944200760479
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0006272562168717
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0004102384309284
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.00034870266628914
