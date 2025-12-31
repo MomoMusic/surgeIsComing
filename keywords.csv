@@ -4,14 +4,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0176790893912456
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0143776305758404
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0134451665121874
-'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0116570071936565
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0116228415686215
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0115136913224002
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0112517059078187
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0109400699876538
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0106347371139018
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0102781235009126
-'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.01025133350604107
+'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.010251333506041
+'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.009908456114608024
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0086492101379647
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0079522171304191
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0071224396928266
