@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0194566976864861
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0109295203333282
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0097866376240401
+'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.00961235983116783
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0090395265468165
-'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0090143115660798
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0088636484801348
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0084221876974167
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0075018436172699
