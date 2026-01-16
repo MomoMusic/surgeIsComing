@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.1542775397849233
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,2,0.1261458574080637
-'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.1146893911653515
+'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.10243725749054877
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.0844768142395755
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.0654339192230718
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0538566916445198
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0057454768767277
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0044979731921821
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.003979618174367
-'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.003694456481868395
+'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0036944564818683
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0028545020541064
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0017896793453213
