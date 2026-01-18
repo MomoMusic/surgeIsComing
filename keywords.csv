@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,2,0.0928064642273259
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.0844768142395755
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.0654339192230718
-'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0538566916445198
-'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.05144024096904114
+'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.06385330789784183
+'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.0514402409690411
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0263641300216458
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0190884480335131
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0109295203333282
