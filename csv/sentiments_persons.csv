@@ -1,28 +1,31 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Vorsicht + Streusalz,Vorsicht + Streusalz,PER,0.0,0.0,de,2.8
 Tobias Goldschmidt,Tobias Goldschmidt,PER,0.0,0.0,de,2.0
 Sturmtief „Joshua,Sturmtief „Joshua,PER,-0.35,0.0,de,2.0
 Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,1.9
+Verkehrsminister mahnt,Verkehrsminister mahnt,PER,0.0,0.0,de,1.9
 Celsius geme,Celsius geme,PER,0.0,0.0,de,1.9
 Umgestürzte Bäume,Umgestürzte Bäume,PER,0.3684210526315789,0.0,de,1.9
 Hurrikan Melissa,Hurrikan Melissa,PER,-1.0769230769230769,0.0,de,1.3
-Sturmtief „Bernd“,Sturmtief „Bernd“,PER,0.7,0.0,de,1.0
-Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1.0
-Vorsicht + Streusalz,Vorsicht + Streusalz,PER,0.0,0.0,de,1.0
-Verkehrsminister mahnt,Verkehrsminister mahnt,PER,0.0,0.0,de,1.0
+Niedersachsens Nordseeküste,Niedersachsens Nordseeküste,PER,0.7,0.0,de,1.0
+Boy-Peter Andres,Boy-Peter Andres,PER,0.0,0.0,de,1.0
+Ausmaß von ,Ausmaß von ,PER,0.0,0.0,de,1.0
+Henning Hünerbein,Henning Hünerbein,PER,0.0,0.0,de,1.0
+Katja Just,Katja Just,PER,0.0,0.0,de,1.0
+Hallig Hooge,Hallig Hooge,PER,0.0,0.0,de,1.0
 Wintersturm Byron,Wintersturm Byron,PER,0.0,0.0,de,1.0
 Jörg Asmussen,Jörg Asmussen,PER,1.0,0.0,de,1.0
 "Sturmtief ""Joshua","Sturmtief ""Joshua",PER,0.0,0.0,de,1.0
 Sturmtief Joshua,Sturmtief Joshua,PER,-0.7,0.0,de,1.0
 Herbststurm Joshua ,Herbststurm Joshua ,PER,0.7,0.0,de,1.0
-Henning Hünerbein,Henning Hünerbein,PER,0.0,0.0,de,1.0
-"Sturmtief ""Detlef","Sturmtief ""Detlef",PER,0.0,0.0,de,1.0
-Heiko Suhr,Heiko Suhr,PER,-1.0,0.0,de,1.0
+Sturmtief „Bernd“,Sturmtief „Bernd“,PER,0.7,0.0,de,1.0
+Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1.0
 Thomas Mann,Thomas Mann,PER,-1.0,0.0,de,1.0
+Heiko Suhr,Heiko Suhr,PER,-1.0,0.0,de,1.0
+Sturmtief Detlef,Sturmtief Detlef,PER,0.7,0.0,de,1.0
 Tag eins,Tag eins,PER,0.0,0.0,de,1.0
 Ahmet Schaefer,Ahmet Schaefer,PER,0.0,0.0,de,1.0
 Jan Keith,Jan Keith,PER,0.5,0.0,de,1.0
 Ruhige Sturmflutsaison,Ruhige Sturmflutsaison,PER,1.4,0.0,de,1.0
 Detlef Baade,Detlef Baade,PER,0.0,0.0,de,1.0
-Boy-Peter Andres,Boy-Peter Andres,PER,0.0,0.0,de,1.0
-Niedersachsens Nordseeküste,Niedersachsens Nordseeküste,PER,0.7,0.0,de,1.0
-Sturmtief Detlef,Sturmtief Detlef,PER,0.7,0.0,de,1.0
+"Sturmtief ""Detlef","Sturmtief ""Detlef",PER,0.0,0.0,de,1.0
