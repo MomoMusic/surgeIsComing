@@ -23,11 +23,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.003979618174367
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0028852597436187
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0028545020541064
-'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0018480988269946
+'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0018230471897399
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0016712457320247
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0006851007344114
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.000437638258551625
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0004376382585516
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0002963972663457
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0002619001953215
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0002010839716108
