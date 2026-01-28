@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0075018436172699
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0071588595428041
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0066541337389026
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.005033670345218545
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0050336703452185
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0041843963081498
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.003979618174367
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0028852597436187
@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0015495901112789
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0006851007344114
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0002963972663457
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0002687645955328
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.00022844990620288
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0002226151660232
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0001452831694887
