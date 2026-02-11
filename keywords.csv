@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0855161454190856
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,2,0.0845239891811847
 'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.0653615326900792
-'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.060199160010072944
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0524679708226289
+'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.051169376008561966
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0330334973101122
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0263641300216458
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,2,0.0260448890177151
