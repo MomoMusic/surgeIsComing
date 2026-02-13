@@ -26,8 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0016326819014998
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0015495901112789
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0014205588722209
-'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0010136799639921701
+'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0010136799639921
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0002141470249347
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0001941824202723
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0001608394574517
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0001452831694887
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.000136713538833945
