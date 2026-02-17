@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0091545443009934
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0071588595428041
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0066765970746794
-'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0056560136780672
+'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.00480761162635712
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0035567368619273
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0035025757820758
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0033826754482119
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0031056489300186198
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0031056489300186
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0024263267459904
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0015495901112789
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0014205588722209
