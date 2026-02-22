@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0232640799333689
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0221381856650578
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0209501378730725
-'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.019048083940639
+'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.01619087134954315
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0149870195485811
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.011036217064755
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0106402272833289
