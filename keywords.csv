@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0138315118590535
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0127389666162939
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0096442531908295
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0093807845050417
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0080531474969332
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.007973666829285445
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0066141582574676
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0060850306113834
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.005916352858854
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0048076116263571
-'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.003813251951089205
+'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0038132519510892
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0035025757820758
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0034732713326382
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0030764146019384
