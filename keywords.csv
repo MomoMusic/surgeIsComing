@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0035025757820758
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0034732713326382
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0032412641584258
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0030552927999004
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.00289702887991534
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0028752741309801
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0015945842753241
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0014205588722209
