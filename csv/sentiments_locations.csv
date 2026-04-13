@@ -78,8 +78,8 @@ Bayern,Bayern,LOC,0.00000000,0.00000000,de,1.90000000,4005044-0,2951839,X,49.000
 Baden-Württemberg,Baden-Württemberg,LOC,0.00000000,0.00000000,de,1.80000000,4004176-1,2953481,X,48.50000000,9.00000000,EUROPE,Germany,WCE
 Haiti,Haiti,LOC,-0.82352941,0.00000000,de,1.70000000,4022974-9,3723988,X,19.00000000,-72.41666900,CENTRAL-AMERICA,Haiti,CAR
 Karibik,Karibik,LOC,-1.17647059,0.00000000,de,1.70000000,,-1,,,,,,
-Freihafenelbbrücke,Freihafenelbbrücke,LOC,-1.50000000,0.00000000,de,1.60000000,,-1,,,,,,
 Melissa,Melissa,LOC,-1.25000000,0.00000000,de,1.60000000,,-1,,,,,,
+Freihafenelbbrücke,Freihafenelbbrücke,LOC,-1.50000000,0.00000000,de,1.60000000,,-1,,,,,,
 Jamaica,Jamaica,LOC,0.00000000,0.00000000,de,1.40000000,4028456-6,3489940,X,18.25000000,-77.50000000,CENTRAL-AMERICA,Jamaica,CAR
 Land,Land,LOC,0.00000000,0.00000000,de,1.40000000,,-1,,,,,,
 US-Präsident,US-Präsident,LOC,0.00000000,0.00000000,de,1.30000000,,-1,,,,,,
@@ -87,14 +87,14 @@ Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.53846154,0.00000000,de,1.30
 Böen,Böen,LOC,-1.16666667,0.00000000,de,1.20000000,,-1,,,,,,
 Philippinen,Philippinen,LOC,-0.58333333,0.00000000,de,1.20000000,4045771-0,1694008,X,13.00000000,122.00000000,ASIA,,SEA
 Sturmtief Joshua,Sturmtief Joshua,LOC,-1.27272727,0.00000000,de,1.10000000,,-1,,,,,,
-A7,A7,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-Meck…,Meck…,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sachsen ++ Sturmflut-Alarm,Sachsen ++ Sturmflut-Alarm,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Dauereinsatz,Dauereinsatz,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Kaikante,Kaikante,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Meck…,Meck…,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Emden,Emden,LOC,0.00000000,0.00000000,de,1.00000000,4014564-5,2930596,X,53.36744900,7.20777900,EUROPE,Germany,NEU
-Schattenflotte,Schattenflotte,LOC,-1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Dauereinsatz,Dauereinsatz,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Meteorologischen Institu,Meteorologischen Institu,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+A7,A7,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Schattenflotte,Schattenflotte,LOC,-1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Kaikante,Kaikante,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Live-Karten,Live-Karten,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sachsen ++ Niedersachsen,Sachsen ++ Niedersachsen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Landfall,Landfall,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
