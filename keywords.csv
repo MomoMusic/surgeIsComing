@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0037369694242157
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0035025757820758
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0034732713326382
-'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0032780883581101797
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0032412641584258
+'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0032364201043935848
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0028970288799153
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0028752741309801
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0021054716340254
