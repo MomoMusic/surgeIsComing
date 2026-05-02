@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0358815488338651
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0342046710799837
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0093390622096296
-'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0084710022922466
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0080531474969332
+'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0078004119484096105
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0075977088536329
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0074302656520066
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0073835270702447
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0032412641584258
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0032010020887344
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0031764240105833
-'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.002744013011333085
+'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.002744013011333
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.002612489547928
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0021054716340254
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0012074750413877
