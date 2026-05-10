@@ -21,11 +21,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0030072645824199
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0029771894147644
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.002632441059633
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0025206461157388
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.00244257919837798
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0022396958889215
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0012074750413877
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0008932929383202
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.000570768572601765
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0005707685726017
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0004497751851979
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0003589113295648
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0001117860854347
