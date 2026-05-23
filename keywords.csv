@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0178550520829455
-'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0155398113454241
-'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.01111877256344246
+'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.013808899643610484
+'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0111187725634424
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0056978017796952
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0055014990878169
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0051904223939726
