@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0043253062455261
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0042595339770189
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0031764240105833
-'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0029522806327424
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0027550745346619
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0027101171159059
-'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.00253061100254974
+'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0025306110025497
+'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.00250943853783104
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0022262073186212
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0021794664155847
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0021727486607983
