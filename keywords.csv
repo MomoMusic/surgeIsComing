@@ -16,15 +16,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0030372406777249
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0027550745346619
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0027101171159059
-'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0025306110025497
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0022262073186212
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0021727486607983
+'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0021510193521672447
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0021330227571563
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0019037415055832
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0018521922352598
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.001395589540312
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0012074750413877
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0009443460462588449
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0009443460462588
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0007364368371489
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0003589113295648
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0003249625713054
