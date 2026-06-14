@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0011341883806157
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0010263537851795
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.000857066426444
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0008158451031586
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0005320756148400249
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.00069346833768481
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.00053207561484
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.000234785457768
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0002204164202689
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,7.583872249284875e-05
