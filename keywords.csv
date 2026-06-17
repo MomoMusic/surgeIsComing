@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0027101171159059
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0021510193521672
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0021330227571563
-'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0016181802797457
+'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.001375453237783845
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0012542220959909
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0011341883806157
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0010263537851795
