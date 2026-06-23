@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0010263537851795
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0007285064624774
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.000589448087032
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.00032676093696353
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.000277746796418975
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0002204164202689
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0001995676391027
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,6.446291411892143e-05
