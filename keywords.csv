@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.08026343899055613
+'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0802634389905561
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0705745341276213
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0619526544434066
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0423611270661366
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0001995676391027
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,6.446291411892143e-05
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,5.835303525994737e-05
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,1.405000520635581e-05
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,1.1942504425402437e-05
