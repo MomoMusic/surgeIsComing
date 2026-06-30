@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0030883731695271
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0029496678246581
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0029301560383366
-'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0028231246012932
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0027943466414076
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0027846936581467
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0027131791319062
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0025816545760661
+'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.00254967091109922
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.001958059616242
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0018130693435828
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0015541114819407
