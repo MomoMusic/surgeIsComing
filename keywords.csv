@@ -17,10 +17,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0025816545760661
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0021672202744343
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.001958059616242
-'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0016911239420453802
+'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0016911239420453
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0014710097596495
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0013754532377838
-'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0007285064624774
+'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.00091926049310579
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0006303095183232
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.000473029255989
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0004277585983765
