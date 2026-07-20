@@ -24,9 +24,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0005357630905747
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0004020748675906
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.00036359480862
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0003619948064485
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.000307695585481225
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0001995676391027
-'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.000187353957228565
+'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0001873539572285
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0001705712513507
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,5.479347700108322e-05
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,4.960007997095526e-05
