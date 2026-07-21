@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0025252096451964
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0024562172621202
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0023669896094246
-'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.002320188958079225
+'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0023201889580792
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0022949663476464
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0021890017254274
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0021672202744343
@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.001958059616242
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0014993647981277
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0014710097596495
+'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0013363680253284799
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0012712927142987
-'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0012192212062688
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0005357630905747
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0004020748675906
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.00036359480862
