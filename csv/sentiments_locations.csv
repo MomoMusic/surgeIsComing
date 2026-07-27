@@ -39,48 +39,48 @@ Neuseeland,Neuseeland,LOC,0.00000000,0.00000000,de,3.70000000,4041915-0,2186224,
 Wettertechnisch,Wettertechnisch,LOC,-0.37837838,0.00000000,de,3.70000000,,-1,,,,,,
 Kuba,Kuba,LOC,-0.40000000,0.00000000,de,3.50000000,4033340-1,3562981,X,22.00000000,-79.50000000,CENTRAL-AMERICA,Cuba,CAR
 Sturm,Sturm,LOC,0.72727273,0.00000000,de,3.30000000,,-1,,,,,,
-Brocken,Brocken,LOC,0.46666667,0.00000000,de,3.00000000,,-1,,,,,,
-Detlef,Detlef,LOC,0.46666667,0.00000000,de,3.00000000,,-1,,,,,,
-Rostock,Rostock,LOC,0.00000000,0.00000000,de,3.00000000,4050610-1,2844588,X,54.08870000,12.14048900,EUROPE,Germany,NEU
-Frankreich,Frankreich,LOC,-0.33333333,0.00000000,de,3.00000000,4018145-5,3017382,X,46.00000000,2.00000000,EUROPE,France,WCE
-Travemünde,Travemünde,LOC,0.00000000,0.00000000,de,3.00000000,4215928-3,2821480,X,53.96277700,10.87083300,EUROPE,Germany,NEU
-Inseln,Inseln,LOC,0.00000000,0.00000000,de,3.00000000,,-1,,,,,,
 Fährausfälle,Fährausfälle,LOC,-0.66666667,0.00000000,de,3.00000000,,-1,,,,,,
+Inseln,Inseln,LOC,0.00000000,0.00000000,de,3.00000000,,-1,,,,,,
+Rostock,Rostock,LOC,0.00000000,0.00000000,de,3.00000000,4050610-1,2844588,X,54.08870000,12.14048900,EUROPE,Germany,NEU
 Europa,Europa,LOC,0.00000000,0.00000000,de,3.00000000,4015701-5,6255148,X,48.69095900,9.14062000,EUROPE,Germany,WCE
+Frankreich,Frankreich,LOC,-0.33333333,0.00000000,de,3.00000000,4018145-5,3017382,X,46.00000000,2.00000000,EUROPE,France,WCE
+Detlef,Detlef,LOC,0.46666667,0.00000000,de,3.00000000,,-1,,,,,,
+Travemünde,Travemünde,LOC,0.00000000,0.00000000,de,3.00000000,4215928-3,2821480,X,53.96277700,10.87083300,EUROPE,Germany,NEU
+Brocken,Brocken,LOC,0.46666667,0.00000000,de,3.00000000,,-1,,,,,,
 Sturmtief,Sturmtief,LOC,0.24137931,0.00000000,de,2.90000000,,-1,,,,,,
-Sturmflut-Katastrophe,Sturmflut-Katastrophe,LOC,0.00000000,0.00000000,de,2.80000000,,-1,,,,,,
-niedersächsischen Küste,niedersächsischen Küste,LOC,-0.60714286,0.00000000,de,2.80000000,,-1,,,,,,
-Kieler Bucht,Kieler Bucht,LOC,-0.25000000,0.00000000,de,2.80000000,,-1,,,,,,
 Hamburger Museum,Hamburger Museum,LOC,0.00000000,0.00000000,de,2.80000000,,-1,,,,,,
+niedersächsischen Küste,niedersächsischen Küste,LOC,-0.60714286,0.00000000,de,2.80000000,,-1,,,,,,
+Sturmflut-Katastrophe,Sturmflut-Katastrophe,LOC,0.00000000,0.00000000,de,2.80000000,,-1,,,,,,
+Kieler Bucht,Kieler Bucht,LOC,-0.25000000,0.00000000,de,2.80000000,,-1,,,,,,
 Atlantik,Atlantik,LOC,-2.04000000,0.00000000,de,2.50000000,4003388-0,3373405,X,10.00000000,-25.00000000,ATLANTIC,,NAO
 Schleswig-Holsteins,Schleswig-Holsteins,LOC,-0.60869565,0.00000000,de,2.30000000,,-1,,,,,,
 Florida,Florida,LOC,-1.42857143,0.00000000,de,2.10000000,4017585-6,4155751,X,28.75054000,-82.50010000,NORTH-AMERICA,United States,ENA
 Kiel,Kiel,LOC,-0.35000000,0.00000000,de,2.00000000,4030481-4,2891122,X,54.32111100,10.13472200,EUROPE,Germany,NEU
-Ferienorten,Ferienorten,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
 St. Pauli,St. Pauli,LOC,-0.35000000,0.00000000,de,2.00000000,,-1,,,,,,
 Nordsee Sturmflut,Nordsee Sturmflut,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
-Häfen,Häfen,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
-Hochwasser,Hochwasser,LOC,-1.00000000,0.00000000,de,2.00000000,,-1,,,,,,
-Bundesamt,Bundesamt,LOC,-0.35000000,0.00000000,de,2.00000000,,-1,,,,,,
-Stromausfälle,Stromausfälle,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
 Campingplatz,Campingplatz,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
-Millionen-Schäden,Millionen-Schäden,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
-Timmendorfer Strand,Timmendorfer Strand,LOC,0.00000000,0.00000000,de,2.00000000,4060184-5,2822160,X,54.00000000,10.78332900,EUROPE,Germany,NEU
-Teile Süddeutschlands,Teile Süddeutschlands,LOC,0.35000000,0.00000000,de,2.00000000,,-1,,,,,,
-Promenaden,Promenaden,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
+Ferienorten,Ferienorten,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
+Häfen,Häfen,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
 Norddeutschland,Norddeutschland,LOC,-0.46666667,0.00000000,de,2.00000000,,-1,,,,,,
-Kiel/Hamburg,Kiel/Hamburg,LOC,-0.16666667,0.00000000,de,2.00000000,,-1,,,,,,
+Millionen-Schäden,Millionen-Schäden,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
 Ostseeflut,Ostseeflut,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
+Kiel/Hamburg,Kiel/Hamburg,LOC,-0.16666667,0.00000000,de,2.00000000,,-1,,,,,,
+Promenaden,Promenaden,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
+Hochwasser,Hochwasser,LOC,-1.00000000,0.00000000,de,2.00000000,,-1,,,,,,
+Teile Süddeutschlands,Teile Süddeutschlands,LOC,0.35000000,0.00000000,de,2.00000000,,-1,,,,,,
+Bundesamt,Bundesamt,LOC,-0.35000000,0.00000000,de,2.00000000,,-1,,,,,,
 Bäume,Bäume,LOC,0.70000000,0.00000000,de,2.00000000,,-1,,,,,,
-Joshua,Joshua,LOC,-0.36842105,0.00000000,de,1.90000000,,-1,,,,,,
+Stromausfälle,Stromausfälle,LOC,0.00000000,0.00000000,de,2.00000000,,-1,,,,,,
+Timmendorfer Strand,Timmendorfer Strand,LOC,0.00000000,0.00000000,de,2.00000000,4060184-5,2822160,X,54.00000000,10.78332900,EUROPE,Germany,NEU
+Sturmflutsaison,Sturmflutsaison,LOC,1.10526316,0.52631579,de,1.90000000,,-1,,,,,,
 “,“,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
+Joshua,Joshua,LOC,-0.36842105,0.00000000,de,1.90000000,,-1,,,,,,
+Wilhelmsburg,Wilhelmsburg,LOC,0.00000000,0.00000000,de,1.90000000,4343326-1,2761186,X,48.10571000,15.60538900,EUROPE,Austria,WCE
 lno,lno,LOC,-0.17543860,0.00000000,de,1.90000000,,-1,,,,,,
 Landes,Landes,LOC,0.00000000,0.00000000,de,1.90000000,,-1,,,,,,
 Lignano,Lignano,LOC,0.52631579,0.00000000,de,1.90000000,4272944-0,3174729,X,45.69221900,13.14805900,EUROPE,Italy,WCE
 Bayern,Bayern,LOC,0.00000000,0.00000000,de,1.90000000,4005044-0,2951839,X,49.00000000,11.50000000,EUROPE,Germany,WCE
-Sturmflutsaison,Sturmflutsaison,LOC,1.10526316,0.52631579,de,1.90000000,,-1,,,,,,
 Ostfriesischen Inseln,Ostfriesischen Inseln,LOC,-0.36842105,0.00000000,de,1.90000000,,-1,,,,,,
-Wilhelmsburg,Wilhelmsburg,LOC,0.00000000,0.00000000,de,1.90000000,4343326-1,2761186,X,48.10571000,15.60538900,EUROPE,Austria,WCE
 Baden-Württemberg,Baden-Württemberg,LOC,0.00000000,0.00000000,de,1.80000000,4004176-1,2953481,X,48.50000000,9.00000000,EUROPE,Germany,WCE
 Haiti,Haiti,LOC,-0.82352941,0.00000000,de,1.70000000,4022974-9,3723988,X,19.00000000,-72.41666900,CENTRAL-AMERICA,Haiti,CAR
 Karibik,Karibik,LOC,-1.17647059,0.00000000,de,1.70000000,,-1,,,,,,
@@ -129,8 +129,8 @@ Lücke im Versicherungskonzept,Lücke im Versicherungskonzept,LOC,0.00000000,0.0
 Jahrhundertsturm,Jahrhundertsturm,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Fischmarkt Wasser,Fischmarkt Wasser,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 d…,d…,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-nordfriesischen Küste,nordfriesischen Küste,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Elbe Sturmflut-Niveau,Elbe Sturmflut-Niveau,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+nordfriesischen Küste,nordfriesischen Küste,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Wilhelmshaven,Wilhelmshaven,LOC,-0.70000000,0.00000000,de,1.00000000,4066173-8,2808720,X,53.52998000,8.11252900,EUROPE,Germany,NEU
 Sturmtief „Joshua“,Sturmtief „Joshua“,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 St. Pauli-Fischmarkt,St. Pauli-Fischmarkt,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
@@ -156,8 +156,8 @@ Langeneß,Langeneß,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Rügens,Rügens,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sturmflutwarnung,Sturmflutwarnung,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sperrwerk,Sperrwerk,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Sperrwerk Greifswald,Sperrwerk Greifswald,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Rügen,Rügen,LOC,-2.00000000,0.00000000,de,1.00000000,4050875-4,2843325,X,54.41666600,13.40000000,EUROPE,Germany,NEU
+Sperrwerk Greifswald,Sperrwerk Greifswald,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Warnemünde,Warnemünde,LOC,0.70000000,0.00000000,de,1.00000000,4079046-0,2814055,X,54.17669900,12.08402000,EUROPE,,NEU
 Unterwarnow,Unterwarnow,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sturmflut-Gefahr,Sturmflut-Gefahr,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
@@ -171,11 +171,11 @@ Konsequenzen,Konsequenzen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Schönhagen,Schönhagen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sturmflut-Überlebenden,Sturmflut-Überlebenden,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Bestehens,Bestehens,LOC,0.00000000,2.00000000,de,1.00000000,,-1,,,,,,
-Naturgefahrenportal,Naturgefahrenportal,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Internetportal,Internetportal,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Naturgefahrenportal,Naturgefahrenportal,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Hamburger Elbe,Hamburger Elbe,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 ru…,ru…,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Fähranleger Dagebüll,Fähranleger Dagebüll,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Winter-Sturmflut,Winter-Sturmflut,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Freitagmorgen,Freitagmorgen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
