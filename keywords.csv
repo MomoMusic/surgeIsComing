@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.000309055587327
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.000246924228059
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0001995676391027
-'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0001873539572285
+'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.00015925086364422498
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0001047520697356
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,9.86401548704e-05
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,5.479347700108322e-05
