@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.001250358295702
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.001213907504796
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0009185089860807
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.000467326512567145
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0003870888329401
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0003733076618437
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0001995676391027
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0001592508636442
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0001516423415566
