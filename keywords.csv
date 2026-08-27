@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0014993647981277
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0014536274938878
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.001250358295702
-'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.001131404533882835
+'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0011314045338828
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.000942144841774635
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0009307476381685
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0005789409903231
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.000547242535682
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0003870888329401
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0001995676391027
