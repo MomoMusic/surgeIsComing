@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0012108038166472
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0010628045513467
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0009712716946437
-'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0006799812307901
+'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.000577984046171585
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0003870888329401
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0001754334186724
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0001592508636442
