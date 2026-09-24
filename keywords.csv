@@ -16,10 +16,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0014103031792276
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0014093962082482
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0012821607621844
-'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.001231200230059815
+'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0012312002300598
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0012307523968706
-'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0012108038166472
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0010628045513467
+'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.00102918324415012
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0009712716946437
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0005779840461715
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0003870888329401
