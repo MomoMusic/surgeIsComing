@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0010290686115779
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0010189440469918
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0009712716946437
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.00083322392248645
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0008332239224864
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0007435848938983
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0004607850576237
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0004175934733588
@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0001041755549092
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,6.616462887661825e-05
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,2.066533331036812e-05
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,1.0137216118506254e-05
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,9.150535250993197e-06
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,8.616633700730317e-06
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,5.097383827320508e-06
