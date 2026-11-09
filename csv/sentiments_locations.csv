@@ -43,8 +43,8 @@ Inseln,Inseln,LOC,0.00000000,0.00000000,de,3.00000000,,-1,,,,,,
 Fährausfälle,Fährausfälle,LOC,-0.66666667,0.00000000,de,3.00000000,,-1,,,,,,
 Rostock,Rostock,LOC,0.00000000,0.00000000,de,3.00000000,4050610-1,2844588,X,54.08870000,12.14048900,EUROPE,Germany,NEU
 Frankreich,Frankreich,LOC,-0.33333333,0.00000000,de,3.00000000,4018145-5,3017382,X,46.00000000,2.00000000,EUROPE,France,WCE
-Detlef,Detlef,LOC,0.46666667,0.00000000,de,3.00000000,,-1,,,,,,
 Brocken,Brocken,LOC,0.46666667,0.00000000,de,3.00000000,,-1,,,,,,
+Detlef,Detlef,LOC,0.46666667,0.00000000,de,3.00000000,,-1,,,,,,
 Travemünde,Travemünde,LOC,0.00000000,0.00000000,de,3.00000000,4215928-3,2821480,X,53.96277700,10.87083300,EUROPE,Germany,NEU
 Europa,Europa,LOC,0.00000000,0.00000000,de,3.00000000,4015701-5,6255148,X,48.69095900,9.14062000,EUROPE,Germany,WCE
 Sturmtief,Sturmtief,LOC,0.24137931,0.00000000,de,2.90000000,,-1,,,,,,
@@ -140,14 +140,14 @@ Fischmarkt Wasser,Fischmarkt Wasser,LOC,0.00000000,0.00000000,de,1.00000000,,-1,
 d…,d…,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Elbe Sturmflut-Niveau,Elbe Sturmflut-Niveau,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 nordfriesischen Küste,nordfriesischen Küste,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Kaikante,Kaikante,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Meteorologischen Institu,Meteorologischen Institu,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Wilhelmshaven,Wilhelmshaven,LOC,-0.70000000,0.00000000,de,1.00000000,4066173-8,2808720,X,53.52998000,8.11252900,EUROPE,Germany,NEU
 Sturmtief „Joshua“,Sturmtief „Joshua“,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 St. Pauli-Fischmarkt,St. Pauli-Fischmarkt,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Meteorologischen Institu,Meteorologischen Institu,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Kaikante,Kaikante,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Ärmelkanal,Ärmelkanal,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
-A7,A7,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Emden,Emden,LOC,0.00000000,0.00000000,de,1.00000000,4014564-5,2930596,X,53.36744900,7.20777900,EUROPE,Germany,NEU
+A7,A7,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Gazastreifens,Gazastreifens,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sachsen ++ Sturmflut-Alarm,Sachsen ++ Sturmflut-Alarm,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Schattenflotte,Schattenflotte,LOC,-1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
@@ -172,11 +172,11 @@ Konsequenzen,Konsequenzen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Schönhagen,Schönhagen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Sturmflut-Überlebenden,Sturmflut-Überlebenden,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Bestehens,Bestehens,LOC,0.00000000,2.00000000,de,1.00000000,,-1,,,,,,
-Internetportal,Internetportal,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Naturgefahrenportal,Naturgefahrenportal,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+Internetportal,Internetportal,LOC,0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Naturgefahren,Naturgefahren,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Rügens,Rügens,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-ru…,ru…,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
+Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Biel,Biel,LOC,1.00000000,0.00000000,de,1.00000000,4006509-1,2661513,X,47.13694400,7.24583300,EUROPE,Switzerland,WCE
 Strandkörben,Strandkörben,LOC,-1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Winter-Sturmflut,Winter-Sturmflut,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
@@ -189,7 +189,7 @@ ostfriesischen Inseln,ostfriesischen Inseln,LOC,0.00000000,0.00000000,de,1.00000
 Borkum,Borkum,LOC,0.00000000,0.00000000,de,1.00000000,4007760-3,2946207,X,53.58111100,6.69111100,EUROPE,Germany,NEU
 Wangerooge,Wangerooge,LOC,0.00000000,0.00000000,de,1.00000000,4064559-9,2814266,X,53.79000000,7.89916600,EUROPE,Germany,NEU
 Sätzen,Sätzen,LOC,-1.00000000,0.00000000,de,1.00000000,,-1,,,,,,
-Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
+ru…,ru…,LOC,-0.70000000,0.00000000,de,1.00000000,,-1,,,,,,
 Dagebüll,Dagebüll,LOC,0.00000000,0.00000000,de,1.00000000,4104277-3,2939489,X,54.72928000,8.70082900,EUROPE,Germany,NEU
 Nordfriesland,Nordfriesland,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
 Halligen,Halligen,LOC,0.00000000,0.00000000,de,1.00000000,,-1,,,,,,
