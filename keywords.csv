@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0072250783519472
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0051196044247367
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0020860437407166
-'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0017441347529768
+'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0016325295400302802
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0012821607621844
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0012176592923187
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0011417494032281
